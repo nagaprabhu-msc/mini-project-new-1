@@ -1,0 +1,13 @@
+{
+  "name": "mini-devops-node-app",
+  "version": "1.0.0",
+  "description": "Node.js app with CI/CD using GitHub, Jenkins, Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
